@@ -7,10 +7,10 @@ Build your curriculum vitae and export as PDF
 
 ## Try it now!!
 
-[Try it !!] (https://BahruDa.github.io/cv-project/)
+[Try it !!] (https://BahruDa.github.io/Webstack---Portfolio-Project/)
 
 Link:
-https://BahruDa.github.io/cv-project/
+https://BahruDa.github.io/Webstack---Portfolio-Project/
 
 
 ## Technologies used
