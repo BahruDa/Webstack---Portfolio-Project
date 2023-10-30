@@ -1,8 +1,8 @@
 {
+  "homepage": "http://BahruDa.github.io/Webstack---Portfolio-Project",
   "name": "Webstack---Portfolio-Project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://BahruDa.github.io/Webstack---Portfolio-Project",
   "dependencies": {
     "@tabler/icons": "^1.41.2",
     "@testing-library/jest-dom": "^5.14.1",
